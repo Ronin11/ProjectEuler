@@ -21,5 +21,4 @@ const findSum = () => {
 const sum = findSum()
 console.log("Sum: ", sum)
 
-//console.log(`Sum: ${data.reduce((acc, val) => acc + val)}`)
 
